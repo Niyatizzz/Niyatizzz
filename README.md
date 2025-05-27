@@ -1,4 +1,4 @@
-# hey there!
+# hey there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 👋 This is Niyati, an undergrad at ABV-IIITM Gwalior
 🌐 MERN stack developer, ML and DevOps enthusiast
 🌈 Looking to contribute to open-source projects :)
