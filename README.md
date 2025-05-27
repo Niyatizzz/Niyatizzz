@@ -4,7 +4,7 @@
 🌈 Looking to contribute to open-source projects :)
 
 
-## Reach me 📫
+## Reach Me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niyatikolukula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niyatikolukula@gmail.com) 
 
 ## Tech Stack 🖥️
